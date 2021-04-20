@@ -1,3 +1,8 @@
+/*
+ * Source: Gilbert Tanner @
+ * https://gilberttanner.com/blog/arduino-nano-33-ble-sense-overview
+ */
+
 #include <ArduinoBLE.h>
 
 // BLE LED Service
